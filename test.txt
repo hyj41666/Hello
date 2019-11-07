@@ -2,6 +2,6 @@ AAAAAAAAAAAAA
 BBBBBBBBBBBBB
 CCCCCCCCCCCCCC
 dddddddddddddd
-eeeeeeeeeeeeee
+eeeeeeeeeeeeee1.2.0
 1.2.0
 master
